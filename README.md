@@ -10,4 +10,4 @@ I am currently the Director of Education at [Temporal Technologies](https://temp
 
 When I’m not writing or teaching, I’m [making music](https://bphogan.com/music).
 
-Follow me on [Twitter](https://twitter.com/bphogan) or [Mastodon](https://mastodon.social/@bphogan) or subscribe to my newsletter, [Code, Content, and Career](https://bphogan.substack.com).
+Follow me on [Twitter](https://twitter.com/bphogan) or <a rel="me" href="https://mastodon.social/@bphogan">Mastodon</a> or subscribe to my newsletter, [Code, Content, and Career](https://bphogan.substack.com).
