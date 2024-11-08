@@ -4,11 +4,11 @@
 <a rel="me" href="https://mastodon.social/@bphogan"><img src="https://img.shields.io/badge/-bphogan-lavender?style=flat&logo=mastodon&logoColor=white"></a>
 [![Newsletter Badge](https://img.shields.io/badge/-Newsletter-purple?style=flat&logo=email&logoColor=white&link=https://newsletter.bphogan.com)](https://newsletter.bphogan.com)
 
-I’m Brian P. Hogan, a technical content expert, software developer, teacher, and musician. I am the author of several books including [Build Websites with Hugo](https://pragprog.com/titles/bhhugo), [Small, Sharp Software Tools](https://smallsharpsoftwaretools.com/), [tmux 2 - Productive Mouse-Free Development](http://pragprog.com/titles/bhtmux2), and [Exercises For Programmers](http://pragprog.com/book/bhwb).
+I’m Brian P. Hogan, a technical content expert, software developer, teacher, and musician. I am the author of several books, including [tmux 3 - Productive Mouse-Free Development](http://pragprog.com/titles/bhtmux3), [Build Websites with Hugo](https://pragprog.com/titles/bhhugo), [Small, Sharp Software Tools](https://smallsharpsoftwaretools.com/), and [Exercises For Programmers](http://pragprog.com/book/bhwb).
 
-I am currently the Director of Education at [Temporal Technologies](https://temporal.io/) where I’m creating resources to help developers build resiliant and reliable apps.
+I am currently the Director of Developer Education at [Temporal Technologies](https://temporal.io/), where I create resources to help developers build resilient and reliable apps.
 
 When I’m not writing or teaching, I’m [making music](https://bphogan.com/music).
 
-Follow me on [Twitter](https://twitter.com/bphogan) or <a rel="me" href="https://mastodon.social/@bphogan">Mastodon</a> or subscribe to my newsletter, [Code, Content, and Career](https://newsletter.bphogan.com).
+Follow me on [BlueSky](https://bsky.app/profile/bphogan.com), [Twitter](https://twitter.com/bphogan), <a rel="me" href="https://mastodon.social/@bphogan">Mastodon</a>, and subscribe to my newsletter, [Code, Content, and Career](https://newsletter.bphogan.com).
 
