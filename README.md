@@ -6,7 +6,7 @@
 
 I’m Brian P. Hogan, a technical content expert, software developer, teacher, and musician. I am the author of several books, including [tmux 3 - Productive Mouse-Free Development](http://pragprog.com/titles/bhtmux3), [Build Websites with Hugo](https://pragprog.com/titles/bhhugo), [Small, Sharp Software Tools](https://smallsharpsoftwaretools.com/), and [Exercises For Programmers](http://pragprog.com/book/bhwb).
 
-I am currently the Director of Developer Education at [Temporal Technologies](https://temporal.io/), where I create resources to help developers build resilient and reliable apps.
+I am currently the Head of Documentation at [Tailscale](https://tailscale.com/).
 
 When I’m not writing or teaching, I’m [making music](https://bphogan.com/music).
 
